@@ -23,11 +23,11 @@ library(openxlsx)
 
 * ## Simulations in the the main paper
 
-  * To create FIGURE 1 in "Section 5.1 Impact of measurement error" of the main paper, run the R scripts located in the folder `01BiasAnalysis_ASMD`.
+  * To create FIGURE 1 in Section "5.1 Impact of measurement error" of the main paper, run the R scripts located in the folder `01BiasAnalysis_ASMD`.
  
-  * To create TABLE 1 in "5.2 ATT estimation with measurement error correction" of the main paper, run the R scripts located in the folder `02Simulation`.
+  * To create TABLE 1 in Section "5.2 ATT estimation with measurement error correction" of the main paper, run the R scripts located in the folder `02Simulation`.
  
-  * To create FIGURE 2 in "5.3 ASMD comparison" of the main paper, run the R scripts located in the folder `03ASMDComparison4Simulation`.
+  * To create FIGURE 2 in Section "5.3 ASMD comparison" of the main paper, run the R scripts located in the folder `03ASMDComparison4Simulation`.
 
 * ## Other simulations in the Supplementary Material
 
