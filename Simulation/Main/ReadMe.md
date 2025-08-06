@@ -1,8 +1,9 @@
 # R scripts for the main manuscript
-This R scripts to conduct simulation experiments and generate all figures and tables in the main manuscript.
+The R scripts to conduct simulation experiments and generate all figures and tables in the main manuscript.
+
+Structure each folder with two subdirectories: `Code`, containing R scripts for generating figures and tables; and `Result`, containing the corresponding output figures and tables.
 
 ## Files:
-Structure each folder with two subdirectories: `Code`, containing R scripts for generating figures and tables; and `Result`, containing the corresponding output figures and tables.
 
 - **FIG1:**
 
