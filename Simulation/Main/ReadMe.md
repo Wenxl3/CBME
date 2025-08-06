@@ -1,4 +1,4 @@
-# R scripts for the main manuscript.
+# R scripts for the main manuscript
 This R scripts to conduct simulation experiments and generate all figures and tables in the main manuscript.
 
 ## Files:
